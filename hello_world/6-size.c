@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - printsithe sizeof various types onthe computer itis compiled and runon
+ * main - printthe sizeof various types onthe computer itis compiled and runon
  *
  * Return: Always 0 (Success)
  */
