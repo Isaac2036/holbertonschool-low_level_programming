@@ -18,8 +18,6 @@ int main(void)
 	putchar(' ');
 	putchar((l / 10) + '0');
 	putchar((l % 10) + '0');
-	putchar(' ');
-
 	if (n == 98 && l == 99)
 	continue;
 	putchar(',');
