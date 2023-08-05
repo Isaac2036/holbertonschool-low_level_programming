@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - Prints all the alphabet from z to a
+ * main - Prints all single digit numbers of base 10 starting from 0
  * Return: Always (Success)
  */
 
