@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - Entry points
+ * main - Entry points "-putchar"
  * Description: "this program prints _putchar"
- * Returns: Always 0
+ * Return: Always 0 (Success)
  */
 
 int main(void)
