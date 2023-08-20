@@ -2,6 +2,7 @@
 
 /**
  * print_line - Displays lines according to the integer
+ * @n: The number of impressions
  * Return: lines according to the integer
  */
 
