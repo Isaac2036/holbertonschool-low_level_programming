@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * print_line - Displays lines according to the integer
- * Return: lines according to the integer
+ * print_diagonal - Displays slashs according to the integer
+ * Return: slashs according to the integer
  */
 
 void print_diagonal(int n)
 {
-	int a,b;
+	int a, b;
 
 	if (n <= 0)
 	{
