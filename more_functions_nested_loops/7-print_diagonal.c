@@ -2,6 +2,7 @@
 
 /**
  * print_diagonal - Displays slashs according to the integer
+ * @n: The numbers of slashs
  * Return: slashs according to the integer
  */
 
