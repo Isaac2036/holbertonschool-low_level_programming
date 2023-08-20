@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_most_numbers - Displays numbers 0 to 9 except 2 and 4
- * Return: The number from 0 to 9
+ * print_line - Displays lines according to the integer
+ * Return: lines according to the integer
  */
 
 void print_line(int n)
