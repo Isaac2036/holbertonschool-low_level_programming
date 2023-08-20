@@ -1,17 +1,15 @@
 #include "main.h"
 
 /**
- * mul - multiplies two int
- * @x: The first number to be checked
- * @y: The second number to be checked
- * Return: Multiplication of integers
+ * print_numbers - Displays numbers 0 to 9 on a new line
+ * Return: The number from 0 to 9
  */
 
 void print_numbers(void)
 {
 	int a = 0;
-	
-	while(a <= 9)
+
+	while (a <= 9)
 	{
 	_putchar(a + '0');
 	a++;
