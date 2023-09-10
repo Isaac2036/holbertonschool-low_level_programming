@@ -43,7 +43,7 @@ if (format)
 			i++;
 			continue;
 		}
-		sep = ",";
+		sep = ", ";
 		i++;
 	}
 }
